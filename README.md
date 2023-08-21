@@ -11,6 +11,7 @@ In order to execute this application:
 
 3. Using helm:
    
-     helm install [chart_release] [chart directory]
-     helm install hello-app hello-app/ [-n namespace]
+   helm install [chart_release] [chart directory]
+
+   helm install hello-app hello-app/ [-n namespace]
    
